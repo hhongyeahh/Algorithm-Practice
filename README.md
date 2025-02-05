@@ -1,1 +1,1 @@
-# ICPC-Winter-Algorithm-Camp
+# Algorithm
