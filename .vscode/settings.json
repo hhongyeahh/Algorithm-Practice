@@ -1,0 +1,8 @@
+{
+    "window.zoomPerWindow": false,
+    "files.associations": {
+        "iostream": "cpp",
+        "string": "cpp",
+        "vector": "cpp"
+    }
+}
